@@ -1,0 +1,4 @@
+baseURL = "https://daypoemsamerican.vercel.app"
+languageCode = "en-us"
+title = "Day Poems in English"
+theme = "tale"
